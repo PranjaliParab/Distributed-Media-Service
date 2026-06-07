@@ -1,0 +1,4 @@
+pillow
+ffmpeg-python
+boto3
+python-dotenv
