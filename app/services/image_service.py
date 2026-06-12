@@ -3,6 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 from pathlib import Path
 
 # Output folder
+# Directory to store processed images
 PROCESSED_DIR = "processed"
 os.makedirs(PROCESSED_DIR, exist_ok=True)
 
